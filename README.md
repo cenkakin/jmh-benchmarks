@@ -9,6 +9,6 @@ You can use parameters "-wi, -i ..." for arranging iteration numbers.
 
 More information about jmh:
 
-http://psy-lob-saw.blogspot.com/2013/05/using-jmh-to-benchmark-multi-threaded.html
-http://psy-lob-saw.blogspot.com/2013/04/writing-java-micro-benchmarks-with-jmh.html
-http://openjdk.java.net/projects/code-tools/jmh/
+- http://psy-lob-saw.blogspot.com/2013/05/using-jmh-to-benchmark-multi-threaded.html
+- http://psy-lob-saw.blogspot.com/2013/04/writing-java-micro-benchmarks-with-jmh.html
+- http://openjdk.java.net/projects/code-tools/jmh/
